@@ -18,5 +18,6 @@ public class MainActivity extends AppCompatActivity {
         Log.e(TAG,"刚开始开发");
         Log.e(TAG,"1.0版本之前的一系列开发");
         Log.e(TAG,"1.0稳定版");
+        Log.e(TAG,"1.0稳定版本下来后立即开发2.0版本");
     }
 }
