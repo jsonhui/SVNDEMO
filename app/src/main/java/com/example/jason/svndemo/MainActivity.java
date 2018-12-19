@@ -1,7 +1,7 @@
 package com.example.jason.svndemo;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 /**
@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         Log.e(TAG,"1.0版本之前的一系列开发");
         Log.e(TAG,"1.0稳定版");
         Log.e(TAG,"1.0稳定版本下来后立即开发2.0版本");
+        Log.e(TAG,"2.1版本");
     }
 }
