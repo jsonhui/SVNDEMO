@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.e(TAG,"刚开始开发");
+        Log.e(TAG,"1.0版本之前的一系列开发");
     }
 }
